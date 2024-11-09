@@ -1,7 +1,7 @@
 # Xây dựng hệ thống tìm kiếm ảnh dựa trên mô tả
 
 ## Mục tiêu
-Hệ thống này cho phép tìm kiếm hình ảnh dựa trên đoạn mô tả văn bản, giúp người dùng nhanh chóng tìm thấy ảnh mong muốn thông qua mô tả ngôn ngữ tự nhiên.
+Hệ thống này cho phép tìm kiếm hình ảnh dựa trên đoạn mô tả văn bản, giúp người dùng nhanh chóng tìm thấy ảnh mong muốn thông qua một đoạn văn mô tả. 
 
 ## Kiến thức cần nghiên cứu
 Để xây dựng hệ thống, cần nghiên cứu và áp dụng các kiến thức sau:
